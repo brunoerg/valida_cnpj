@@ -1,4 +1,4 @@
-# Validador de CPF em PHP
-Codigo em PHP para validação de CPF.
+# Validador de CNPJ em PHP
+Codigo em PHP para validação de CNPJ.
 
 Aproveitem!
